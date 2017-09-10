@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="bed_1">BED 1</string>
+    <string name="bed_2">BED 2</string>
+    <string name="bed_3">BED 3</string>
+    <string name="bed_4">BED 4</string>
+    <string name="bed_5">BED 5</string>
+    <string name="info">Please click on the button below to book beds.</string>
+    <string name="book_beds">Book Beds</string>
+    <string name="Bed_No1">Bed 1</string>
+    <string name="price">Price - Rs.500</string>
+    <string name="available">Available</string>
+    <string name="book">Book</string>
+    <string name="bed_text">Booking Details:-</string>
+    <string name="date_price">Price - Rs.500\nStatus - Booked</string>
+    <string name="bed_no">Bed No. - 1</string>
+    <string name="date_booked">Date of Booking - </string>
+    <string name="direct_to_choose_beds">Please click on a bed to book</string>
+    <string name="cancel_booking">\"Do you want to cancel the booking?\"</string>
+    <string name="cancel_order">Yes, Cancel</string>
+    <string name="no_cancel">No</string>
+    <string name="confirm_booking">Congratulations, Your bed is booked!</string>
+    <string name="ok">OK</string>
+</resources>
